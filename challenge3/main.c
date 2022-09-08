@@ -3,10 +3,14 @@
 
 int main()
 {
-    int a,b,s;
+    float a,b,s;
     printf("donner deux nombre : ");
-    scanf("%d%d",&a,&b);
+    scanf("%f%f",&a,&b);
     s = a+b;
+    if (a==b)
+        printf("la somme est : %.2f",s*3);
+    else
+        printf("le somme est :%f",s);
 
     return 0;
 }
