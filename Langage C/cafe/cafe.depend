@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662212690 source:c:\users\dell\desktop\langage c\cafe\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1662165842 source:c:\users\dell\desktop\langage c\cafe\cafe.c
+	<stdio.h>
+	<math.h>
+
