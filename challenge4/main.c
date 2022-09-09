@@ -16,12 +16,15 @@ int main()
     scanf("%d",&choix);
     switch(choix){
     case 1:
-        printf("Mois");
         break;
     case 2:
+        break;
     case 3:
+        break;
     case 4:
+        break;
     case 5:
+        break;
     default:
         printf("autre choix !!!");
     }
